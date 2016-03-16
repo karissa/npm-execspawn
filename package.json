@@ -21,7 +21,7 @@
     "url": "git://github.com/mafintosh/npm-execspawn"
   },
   "scripts": {
-    "test": "node test.js"
+    "test": "node tests/test.js"
   },
   "keywords": [
     "npm",
